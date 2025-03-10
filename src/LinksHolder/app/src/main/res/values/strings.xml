@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReminderAndroid</string>
+    <string name="app_logo">Link\nShortening</string>
+    <string name="input_long_link">Enter full link text</string>
+    <string name="input_short_link">Enter short link text</string>
+    <string name="add_btn">Adding</string>
+    <string name="default_label">Shortening: </string>
+</resources>
