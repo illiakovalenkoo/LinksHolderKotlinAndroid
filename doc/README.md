@@ -1,4 +1,4 @@
-# LinksHolder - Android Link Manager
+# LinksHolderKotlinAndroid - Android Link Manager
 
 **LinksHolder** is a simple Android application built with **Kotlin** that allows users to **store and manage links**. The application features a minimal user interface and basic link-handling functionality.
 
@@ -72,19 +72,9 @@ If you want to install the pre-built APK file without running the project in And
 ## 3. Project Structure
 
 ```
-LinksHolderKotlinAndroid/           # Root project directory
-│── app/                            # Main application module
-│   ├── src/main/java/com/example/linksholder/
-│   │   ├── MainActivity.kt         # Main activity handling link storage
-│   ├── res/
-│   │   ├── layout/                 # XML layout files
-│   │   ├── drawable/               # Icons and images
-│   │   ├── values/                 # Strings, colors, themes
-│   ├── AndroidManifest.xml         # App permissions and configuration
-│── gradle/                         # Gradle build settings
-│── build.gradle                    # Project-level Gradle configuration
-│── settings.gradle                  # Gradle module settings
-│── README.md                        # Project documentation
+│── src/                           # Source code of the application
+│── images/                        # Screenshots and images for documentation
+│── doc/                           # README.md file
 ```
 
 ## 4. Technologies Used
